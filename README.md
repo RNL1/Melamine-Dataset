@@ -19,15 +19,15 @@ The dataset is made public with the owner's explicit consent.
 
 If you use the data please refer to:
 
-Ramin Nikzad-Langerodi, Werner Zellinger, Susanne Saminger-Platz and Bernhard Moser Domain-Invariant Regression under Beer-Lambert's Law. In *Proc. ICMLA*, 2019.
+Ramin Nikzad-Langerodi, Werner Zellinger, Susanne Saminger-Platz and Bernhard Moser "Domain-Invariant Regression under Beer-Lambert's Law" In *Proc. ICMLA*, 2019.
 
 
-Ramin Nikzad-Langerodi, Werner Zellinger, Edwin Lughofer, and Susanne Saminger-Platz
+Ramin Nikzad-Langerodi, Werner Zellinger, Edwin Lughofer, and Susanne Saminger-Platz "Domain-Invariant Partial Least Squares Regression"
 *Analytical Chemistry* 2018 90 (11), 6693-6701
 DOI: 10.1021/acs.analchem.8b00498
 
 Ramin Nikzad-Langerodi, Edwin Lughofer, Carlos Cernuda, Thomas Reischer, Wolfgang Kantner, Marcin Pawliczek, Markus Brandstetter,
-Calibration model maintenance in melamine resin production: Integrating drift detection, smart sample selection and model adaptation, *Analytica Chimica Acta* 2018 1013, 1-12
+"Calibration model maintenance in melamine resin production: Integrating drift detection, smart sample selection and model adaptation" *Analytica Chimica Acta* 2018 1013, 1-12
 DOI: 10.1016/j.aca.2018.02.003
 
 
