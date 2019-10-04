@@ -1,0 +1,60 @@
+load('Melamine_Dataset.mat')
+data = Melamine_Dataset;
+
+figure
+
+subplot(4,2,1)
+plot(data.wn1,data.R562.X1,'b')
+title('R562')
+xlabel('Wavenumber (cm^{-1})')
+ylabel('Absorbance (a.u.)')
+axis([5400 6400 0.5 2.5])
+
+subplot(4,2,2)
+plot(data.wn2,data.R562.X2,'b')
+title('R562')
+xlabel('Wavenumber (cm^{-1})')
+ylabel('Absorbance (a.u.)')
+axis([6500 7000 0.2 0.7])
+
+subplot(4,2,3)
+plot(data.wn1,data.R568.X1,'b')
+title('R568')
+xlabel('Wavenumber (cm^{-1})')
+ylabel('Absorbance (a.u.)')
+axis([5400 6400 0.5 2.5])
+
+subplot(4,2,4)
+plot(data.wn2,data.R568.X2,'b')
+title('R568')
+xlabel('Wavenumber (cm^{-1})')
+ylabel('Absorbance (a.u.)')
+axis([6500 7000 0.2 0.7])
+
+subplot(4,2,5)
+plot(data.wn1,data.R861.X1,'b')
+title('R861')
+xlabel('Wavenumber (cm^{-1})')
+ylabel('Absorbance (a.u.)')
+axis([5400 6400 0.5 2.5])
+
+subplot(4,2,6)
+plot(data.wn2,data.R861.X2,'b')
+title('R861')
+xlabel('Wavenumber (cm^{-1})')
+ylabel('Absorbance (a.u.)')
+axis([6500 7000 0.2 0.7])
+
+subplot(4,2,7)
+plot(data.wn1,data.R862.X1,'b')
+title('R862')
+xlabel('Wavenumber (cm^{-1})')
+ylabel('Absorbance (a.u.)')
+axis([5400 6400 0.5 2.5])
+
+subplot(4,2,8)
+plot(data.wn2,data.R862.X2,'b')
+title('R862')
+xlabel('Wavenumber (cm^{-1})')
+ylabel('Absorbance (a.u.)')
+axis([6500 7000 0.2 0.7])
