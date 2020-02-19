@@ -19,7 +19,8 @@ The dataset is made public with the owner's explicit consent.
 
 If you use the data please refer to:
 
-Ramin Nikzad-Langerodi, Werner Zellinger, Susanne Saminger-Platz and Bernhard Moser "Domain-Invariant Regression under Beer-Lambert's Law" In *Proc. ICMLA*, 2019.
+R. Nikzad-Langerodi, W. Zellinger, S. Saminger-Platz and B. Moser, "Domain-Invariant Regression Under Beer-Lambert's Law," 2019 18th IEEE International Conference On Machine Learning And Applications (ICMLA), Boca Raton, FL, USA, 2019, pp. 581-586.
+doi: 10.1109/ICMLA.2019.00108
 
 
 Ramin Nikzad-Langerodi, Werner Zellinger, Edwin Lughofer, and Susanne Saminger-Platz "Domain-Invariant Partial Least Squares Regression"
