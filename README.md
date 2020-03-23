@@ -19,17 +19,8 @@ The dataset is made public with the owner's explicit consent.
 
 If you use the data please refer to:
 
-R. Nikzad-Langerodi, W. Zellinger, S. Saminger-Platz and B. Moser, "Domain-Invariant Regression Under Beer-Lambert's Law," 2019 18th IEEE International Conference On Machine Learning And Applications (ICMLA), Boca Raton, FL, USA, 2019, pp. 581-586.
-doi: 10.1109/ICMLA.2019.00108
+R. Nikzad-Langerodi, W. Zellinger, S. Saminger-Platz and B. Moser, "Domain Adaptation for Regression under Beer-Lambert’s Law", Knowl.-Based Syst (*Under Review*)
 
-
-Ramin Nikzad-Langerodi, Werner Zellinger, Edwin Lughofer, and Susanne Saminger-Platz "Domain-Invariant Partial Least Squares Regression"
-*Analytical Chemistry* 2018 90 (11), 6693-6701
-DOI: 10.1021/acs.analchem.8b00498
-
-Ramin Nikzad-Langerodi, Edwin Lughofer, Carlos Cernuda, Thomas Reischer, Wolfgang Kantner, Marcin Pawliczek, Markus Brandstetter,
-"Calibration model maintenance in melamine resin production: Integrating drift detection, smart sample selection and model adaptation" *Analytica Chimica Acta* 2018 1013, 1-12
-DOI: 10.1016/j.aca.2018.02.003
 
 
 
