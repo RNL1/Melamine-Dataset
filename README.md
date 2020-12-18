@@ -19,9 +19,9 @@ The dataset is made public with the owner's explicit consent.
 
 If you use the data please refer to:
 
-R. Nikzad-Langerodi, W. Zellinger, S. Saminger-Platz and B. Moser, "Domain Adaptation for Regression under Beer-Lambert’s Law", Knowl.-Based Syst (*Under Review*)
+R. Nikzad-Langerodi, W. Zellinger, E. Lughofer, S. Saminger-Platz. “Domain-invariant partial-least-squares regression.” Analytical chemistry 90.11 (2018), pp. 6693–6701.
 
-
+R. Nikzad-Langerodi, W. Zellinger, B. Moser, S. Saminger-Platz. "Domain adaptation for regression under Beer–Lambert’s law." Knowledge-Based Systems 210 (2020), pp. 106447.
 
 
 
